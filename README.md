@@ -8,7 +8,12 @@
 
 > *"Beauty first, utility later."* — Black Orchard Labs
 
-![PyPulse Widget](https://img.shields.io/badge/PyPulse-Retro%20Industrial-D4A017?style=for-the-badge)
+## Screenshots
+
+| Idle | Active | Complete | Error |
+|:----:|:------:|:--------:|:-----:|
+| ![Idle](screenshots/screen_1.png) | ![Active](screenshots/screen_2.png) | ![Complete](screenshots/screen_3.png) | ![Error](screenshots/screen_4.png) |
+| Waiting for tasks | Progress in motion | Task finished | Something went wrong |
 
 ## Features
 
